@@ -159,5 +159,6 @@ Este projeto é distribuído sob a licença MIT.
 ## 👨‍💻 Autor
 
 Lucas Ferreira de Lima
+"Software de qualidade não nasce por acaso. Ele é construído por pessoas, processos e aprendizado contínuo."
 
 Quality Assurance Engineer | Test Automation | Open Source
